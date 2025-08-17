@@ -20,8 +20,6 @@
 
 - 🌱 I’m currently learning c++
 
-- 📫 How to reach me **omna0504@gmail.com**
-
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
